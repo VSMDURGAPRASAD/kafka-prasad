@@ -1,4 +1,5 @@
-# kafka-case
+# kafka-prasad
+This are the steps to be followed to run this files 
 
 Example kafka Producer and Consumer apps.
 
